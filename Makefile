@@ -2,15 +2,15 @@ P_NAME += meteorologists
 
 CFLAGS += -Wall
 
-COMPIL += E:/Coder_experiments/$(P_NAME)/src/
+COMPIL += E:/Coder_experiments/course-work-2021/$(P_NAME)/src/
 
 COMPONETS += $(MY_INCLUDE)fwlist/fwlist.c
 
 MY_INCLUDE	= E:/Coder_experiments/include/
 INCLUDE		= -IE:/Coder_experiments/include/
 
-CREATIN_B += E:/Coder_experiments/$(P_NAME)/bin/
-CREATIN_D += E:/Coder_experiments/$(P_NAME)/debug/
+CREATIN_B += E:/Coder_experiments/course-work-2021/$(P_NAME)/bin/
+CREATIN_D += E:/Coder_experiments/course-work-2021/$(P_NAME)/debug/
 
 DIR = D:/mingv/mingw64/bin/
 
